@@ -1,0 +1,9 @@
+[root@localhost Desktop]# cd
+[root@localhost ~]# vi myfile
+[root@localhost ~]# cat myfile 
+Name - Sagar Gharge
+Address - Sangli
+Email id - sagar.gharge2@gmail.com
+Phone Number - 9623274633
+Blood Group - B+
+[root@localhost ~]# 
